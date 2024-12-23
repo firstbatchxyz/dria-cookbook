@@ -1,0 +1,6 @@
+.venv
+.env
+
+cohere_reranker_config.yaml
+simple_rag_config.yaml
+jina_reranker_config.yaml
