@@ -1,6 +1,6 @@
 # Dria RAG Evaluation Cookbook
 
-This repository contains a comprehensive guide and set of tools for evaluating AI agents using Dria's QA pipeline. The notebook provided in this repository demonstrates how to generate an evaluation set for your AI agents and assess their performance using various tools and datasets.
+This repository contains a comprehensive guide and set of tools for evaluating AI agents using Dria SDK. The notebook provided in this repository demonstrates how to generate an evaluation set for your AI agents and assess their performance using various tools and datasets.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -50,7 +50,7 @@ The notebook demonstrates how to combine scraped content with personas to create
 
 ### Step 5: Evaluation
 
-Finally, use the combined data to evaluate your AI agents. The notebook provides guidance on how to perform this evaluation using the Dria QA pipeline and other tools.
+Finally, use the combined data to evaluate your AI agents. By leveraging Dria, it produces synthetic QA pairs for each context-persona combination. These pairs simulate real-world scenarios, offering insights into the performance of different RAG configurations. The notebook also provides guidance on how to perform this evaluation with promptfoo.
 
 ## Dependencies
 
