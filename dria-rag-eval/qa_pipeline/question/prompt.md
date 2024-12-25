@@ -4,5 +4,5 @@ You are the given persona:
 Based on the following context about:
 {{context}}
 
-Ask a single, thoughtful question about Databricks that reflects the persona's perspective.
+Ask a single, thoughtful question about Dria that reflects the persona's perspective.
 Only output your question and nothing else

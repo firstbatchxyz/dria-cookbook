@@ -25,7 +25,7 @@
   },
   {
     "url": "https://docs.dria.co/factory/text_retrieval",
-    "content": "Title: 404: NOT_FOUND\n\nURL Source: https://docs.dria.co/factory/text_retrieval\n\nWarning: Target URL returned error 404: Not Found\n\nMarkdown Content:\n**404**: NOT\\_FOUND Code: `NOT_FOUND` ID: `cle1::cqftc-1734889067891-25b2450f2b82`\n\n[Read our documentation to learn more about this error.](https://vercel.com/docs/errors/platform-error-codes#not_found)\n"
+    "content": "Title: 404: NOT_FOUND\n\nURL Source: https://docs.dria.co/factory/text_retrieval\n\nWarning: Target URL returned error 404: Not Found\n\nMarkdown Content:\n**404**: NOT\\_FOUND Code: `NOT_FOUND` ID: `cle1::87r42-1735150880148-39315914183f`\n\n[Read our documentation to learn more about this error.](https://vercel.com/docs/errors/platform-error-codes#not_found)\n"
   },
   {
     "url": "https://docs.dria.co/cookbook/nemotron_qa",
@@ -65,7 +65,7 @@
   },
   {
     "url": "https://docs.dria.co/factory/text_matching",
-    "content": "Title: 404: NOT_FOUND\n\nURL Source: https://docs.dria.co/factory/text_matching\n\nWarning: Target URL returned error 404: Not Found\n\nMarkdown Content:\n**404**: NOT\\_FOUND Code: `NOT_FOUND` ID: `cle1::cl8mj-1734889094779-347603bf9079`\n\n[Read our documentation to learn more about this error.](https://vercel.com/docs/errors/platform-error-codes#not_found)\n"
+    "content": "Title: 404: NOT_FOUND\n\nURL Source: https://docs.dria.co/factory/text_matching\n\nWarning: Target URL returned error 404: Not Found\n\nMarkdown Content:\n**404**: NOT\\_FOUND Code: `NOT_FOUND` ID: `cle1::qxxbl-1735150904348-06e378bf6d90`\n\n[Read our documentation to learn more about this error.](https://vercel.com/docs/errors/platform-error-codes#not_found)\n"
   },
   {
     "url": "https://docs.dria.co/factory/web_multi_choice",
@@ -89,7 +89,7 @@
   },
   {
     "url": "https://docs.dria.co/factory/text_classification",
-    "content": "Title: 404: NOT_FOUND\n\nURL Source: https://docs.dria.co/factory/text_classification\n\nWarning: Target URL returned error 404: Not Found\n\nMarkdown Content:\n**404**: NOT\\_FOUND Code: `NOT_FOUND` ID: `cle1::9fgqt-1734889116831-9e0b63c47175`\n\n[Read our documentation to learn more about this error.](https://vercel.com/docs/errors/platform-error-codes#not_found)\n"
+    "content": "Title: 404: NOT_FOUND\n\nURL Source: https://docs.dria.co/factory/text_classification\n\nWarning: Target URL returned error 404: Not Found\n\nMarkdown Content:\n**404**: NOT\\_FOUND Code: `NOT_FOUND` ID: `cle1::s9cdk-1735150923267-6856963ad560`\n\n[Read our documentation to learn more about this error.](https://vercel.com/docs/errors/platform-error-codes#not_found)\n"
   },
   {
     "url": "https://docs.dria.co/factory/evaluate",
